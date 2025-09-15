@@ -1,1 +1,1 @@
-Resolve merge conflict between main and feature-greeting
+This is a new feature.
